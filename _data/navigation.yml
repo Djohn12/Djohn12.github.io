@@ -1,0 +1,8 @@
+- name: Accueil
+  link: /
+- name: Portfolio
+  link: /portfolio
+- name: Blog
+  link: /blog
+- name: A propos
+  link: /about

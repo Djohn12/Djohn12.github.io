@@ -1,0 +1,112 @@
+---
+---
+
+
+body {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+	max-width: 80%;
+	margin: 0 auto;
+	font-family: "Arial", "sans-serif";
+	line-height: 1.4em;
+	color: rgb(21, 21, 21);
+	background-color: rgb(240, 240, 240);
+}
+
+a {
+	text-decoration: none;
+	color: #004C9E;
+}
+
+a:hover {
+	color: #191919;
+}
+
+a:hover:not(.nav-item) {
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+a:focus:not(.nav-item) {
+	color: rgb(25, 25, 25);
+	text-decoration: underline;
+	font-weight: bold;	
+}
+
+// ********** navbar ************
+
+nav {
+	margin-top: 1em;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+.nav-item {
+	border-radius: 50px;
+  padding: 15px;
+	border: solid 1px #F0F0F0;
+}
+
+.nav-item:hover, .nav-item:focus {
+	border: solid 1px #2D952D;
+}
+
+.current {
+	border: solid 1px #2D952D;
+}
+
+.current:hover, 	.current:focus{
+	background-color: #2D952D;
+}
+
+// ***** apply flex growth and shrink to keep footer to the bottom *****
+.content {
+	flex: 1 0 auto;
+}
+
+// ********** general ***********
+
+h1 {
+	margin-bottom: 1.5em;
+}
+
+// ********** projects ************
+
+h2 {
+
+}
+
+h3 {
+	font-style: italic;
+	color: #606060;
+}
+
+.row {
+	display: flex;
+	border-radius: 10px;
+	margin-bottom: 2em;
+	padding: 2em;
+}
+
+.row__img {
+	max-width: 50%;
+	margin-right: 2em;
+}
+
+.row__img img {
+	max-width: 100%;
+	border-radius: 1%;
+	border: solid 2px #000000;
+}
+
+footer {
+	text-align: center;
+	flex-shrink: 0;
+}
+
+.svglogo {
+	width: 1rem;
+	margin-right: 0.5em;
+}

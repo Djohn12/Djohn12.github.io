@@ -1,0 +1,14 @@
+{% for item in site.data.projects %}
+<div class="row">
+	<div class="row__img">
+		<img src="{{item.image}}" alt="">
+	</div>
+	<div class="row__text">
+		<h2>{{item.title}}</h2>
+		<h3>{{ item.date }}</h3>
+		<h4> {{ item.technologies }}</h4>
+		<p>{{ item.description }}</p>
+		<a class="project-link" href="{{item.link}}">Voir le projet</a>
+	</div>
+</div>
+{% endfor %}
