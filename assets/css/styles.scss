@@ -19,18 +19,10 @@ a {
 	color: #004C9E;
 }
 
-a:hover {
-	color: #191919;
-}
 
-a:hover:not(.nav-item) {
+a:hover:not(.nav-item), a:focus:not(.nav-item) {
 	text-decoration: underline;
-}
-
-a:focus:not(.nav-item) {
-	color: rgb(25, 25, 25);
-	text-decoration: underline;
-	font-weight: bold;	
+	color: #1B5A1B;
 }
 
 // ********** navbar ************
@@ -49,6 +41,7 @@ nav {
 }
 
 .nav-item:hover, .nav-item:focus {
+	color: rgb(25,25, 25);
 	border: solid 1px #2D952D;
 }
 
