@@ -11,7 +11,7 @@ Pour ce premier billet je vais faire vite et simplement expliquer ce que je vien
 
 L'idée de me faire un site perso avec une partie blog a germé dans ma tête pendant toute ma formation de Dev Web.
 
-J'ai découvert qu'il est intéressant pour les développeurs d'avoir un petit endroit à eux sur la toile.
+J'ai découvert qu'il est intéressant pour les développeur.euse.s d'avoir un petit endroit à eux sur la toile.  
 Ne serait-ce que pour avoir une vitrine lorsqu'ils.elles cherchent un emploi, c'est déjà une raison suffisante (à mon humble avis) pour réfléchir à l'idée.
 
 Je suis aussi tombé, pendant toute une période, sur des articles décrivant les bienfaits du blog sur la vie des développeurs.
@@ -20,8 +20,11 @@ A titre d'exemple, [Flavio Copes en parle ici](https://www.freecodecamp.org/news
 
 Me voilà donc ici avec l'intention d'écrire de petits articles en lien avec mon expérience de dévelopeur. Cela pourra concerner un vaste éventail de choses plus ou moins liées au développement web : les technologies que j'utilise, un concept que j'essaie de comprendre, une difficulté dans un projet, un hack que je trouve particulièrement utile, une situation rencontrée au travail qui me laisse perplexe, etc...
 
+Enfin, tout ça me permettra probablement d'améliorer mes compétences rédactionnelles en cours de route. Je souhaite qu'avec le temps, mes articles deviennent de plus en plus clairs, lisibles (et agréables si possible).
 
-En espérant être de retour prochainement
+
+
+En espérant être de retour prochainement !
 
 
 A tantôt
