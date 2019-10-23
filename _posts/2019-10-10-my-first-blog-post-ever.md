@@ -9,7 +9,7 @@ title: Mon premier billet
 Pour ce premier billet je vais faire vite et simplement expliquer ce que je viens faire ici.
 
 
-L'idée de me faire un site perso avec une partie blog a germée dans ma tête pendant toute ma formation de Dev Web.
+L'idée de me faire un site perso avec une partie blog a germé dans ma tête pendant toute ma formation de Dev Web.
 
 J'ai découvert qu'il est intéressant pour les développeurs d'avoir un petit endroit à eux sur la toile.
 Ne serait-ce que pour avoir une vitrine lorsqu'ils.elles cherchent un emploi, c'est déjà une raison suffisante (à mon humble avis) pour réfléchir à l'idée.
