@@ -1,5 +1,5 @@
 - title: Real Time Weather Map
-  image: /assets/image/realTimeWeatherMap.png
+  image: /assets/image/realTimeWeatherMap_opt.png
   client: OgoXe
   date: Janvier 2018 - Février 2018
   technologies: Nodejs / Expressjs / Leafletjs / Apis / Web Services / SQL / Debian
