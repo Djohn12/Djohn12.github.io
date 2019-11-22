@@ -7,7 +7,7 @@
   description: Conception et réalisation d'une carte météo en temps réel.
   
 - title: Site de la Compagnie l'Aubépine
-  image: /assets/image/laubepine.png
+  image: /assets/image/laubepine_opt.png
   client: l'Aubépine
   date: Mai 2019 - Présent
   technologies: Jekyll / Scss / Flexbox / Javascript
