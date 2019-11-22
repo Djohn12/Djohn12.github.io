@@ -1,15 +1,22 @@
-- title: Real Time Weather Map
-  image: /assets/image/realTimeWeatherMap_opt.png
-  client: OgoXe
-  date: Janvier 2018 - Février 2018
-  technologies: Nodejs / Expressjs / Leafletjs / Apis / Web Services / SQL / Debian
-  link: http://maps.ogoxe.com
-  description: Conception et réalisation d'une carte météo en temps réel.
+- title: Job Board Developpeur Web Junior
+  image: /assets/image/developpeurWebJunior_opt.png
+  client: collaboration avec Nicolas Ruiz
+  technologies: Laravel / Vuejs
+  link: https://developpeurwebjunior.fr/
+  description: Un job board à destination des dev juniors français
   
 - title: Site de la Compagnie l'Aubépine
   image: /assets/image/laubepine_opt.png
   client: l'Aubépine
   date: Mai 2019 - Présent
-  technologies: Jekyll / Scss / Flexbox / Javascript
-  link: http://www.laubepine.net
-  description: Conception et réalisation du site de la Compagnie l'Aubépine
+  technologies: Jekyll / Scss / Javascript
+  link: https://www.laubepine.net
+  description: Site vitrine de la Compagnie l'Aubépine
+
+- title: Real Time Weather Map
+  image: /assets/image/realTimeWeatherMap_opt.png
+  client: OgoXe
+  date: Janvier 2018 - Février 2018
+  technologies: Nodejs / Expressjs / Leafletjs / Bash / Debian
+  link: http://maps.ogoxe.com
+  description: Carte météo en temps réel
