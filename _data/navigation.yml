@@ -1,5 +1,7 @@
 - name: Accueil
   link: /
+- name: Curriculum
+  link: /cv
 - name: Portfolio
   link: /portfolio
 - name: Blog
