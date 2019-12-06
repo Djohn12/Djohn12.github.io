@@ -1,7 +1,9 @@
-<nav>
-  {% for item in site.data.navigation %}
-  <a href="{{ item.link }}" class="nav-item {% if page.url == item.link %} current {% endif %}">
-  	{{ item.name }}
-  </a>
-  {% endfor %}
+<nav class="nav">
+	<label for="toggle-mobile-menu" aria-label="Menu">&#9776;</label>
+	<input id="toggle-mobile-menu" type="checkbox" />	
+	<ul class="main-menu">
+	  {% for item in site.data.navigation %}
+	  <li><a href="{{ item.link }}" class="nav-item {% if page.url == item.link %} current {% endif %}">{{ item.name }}</a></li>
+	  {% endfor %}
+	</ul>
 </nav>
