@@ -1,14 +1,14 @@
 # This is my first personnal website \o/
 
-## Warning, big things coming up !
+## So excited about this !
 
 
 ## Ideally, this website will host :
 
-* My portfolio
-* My CV
-* Some informations about me and what I do these days
-* Some blog posts I plan to do to keep up with my new carrier (and hobby) in web development
+* Portfolio
+* CV
+* Informations about me and what I do these days
+* Blog posts about dev related stuff
 
 ***
 
